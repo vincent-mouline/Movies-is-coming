@@ -2,7 +2,7 @@
 
 Mon premier projet en Vue.JS afin d'en apprendre le fonctionnement.
 Ce dernier fonctionne gràce à l'API TMDB.
-Les Favoris, A voir, et Notes sont enregistrées en LocalStorage et le resteront jusqu'à éffacement du cache de votre navigateur.
+Les Favoris, A voir et Notes sont enregistrées en LocalStorage et le resteront jusqu'à éffacement du cache de votre navigateur.
 
 
 # Installation :
