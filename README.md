@@ -1,4 +1,4 @@
-# Séries-is-coming
+# Movies-is-coming
 
 Mon premier projet en Vue.JS afin d'en apprendre le fonctionnement.
 Ce dernier fonctionne gràce à l'API TMDB.
