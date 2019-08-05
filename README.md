@@ -1,18 +1,22 @@
-# vuejs
+# Séries-is-coming
 
-> A Vue.js project
+Mon premier projet en Vue.JS afin d'en apprendre le fonctionnement.
+Ce dernier fonctionne gràce à l'API TMDB.
+Les Favoris, A voir, et Notes sont enregistrées en LocalStorage et le resteront jusqu'à éffacement du cache de votre navigateur.
 
-## Build Setup
 
-``` bash
-# install dependencies
-npm install
+# Installation :
 
-# serve with hot reload at localhost:8080
-npm run dev
+## Installation des dépendances :
 
-# build for production with minification
-npm run build
-```
+lancer `npm install` à la racine du projet
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## Lancer le projet en dev sur localhost:8080
+lancer `npm run dev` à la racine du projet
+
+## Lancer le projet en production :
+`npm run build`
+
+
+# IMPORTANT : 
+Actuellement, le projet n'est fonctionnel que sur Chromium, Debug en cours pour Firefox.
