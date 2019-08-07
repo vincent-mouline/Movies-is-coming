@@ -19,7 +19,7 @@
 
                     <div class="modal-footer">
                         <slot name="footer">
-                            <button class="modal-default-button flux" @click="$emit('close')">&nbsp
+                            <button class="modal-default-button flux" @click="$emit('close')">&nbsp;
                             </button>
                         </slot>
                     </div>
